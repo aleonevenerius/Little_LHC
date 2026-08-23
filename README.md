@@ -1,1 +1,1 @@
-# Little_LHC
+# Little Large Hadron Collider (LHC)
