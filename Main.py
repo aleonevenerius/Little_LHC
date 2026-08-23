@@ -53,8 +53,6 @@ while _:
     
     if P_a == P_b:
         ToExplode()
-        print(P_a)
-        print(P_b)
         print("As partículas colidiram. Bazinga!\nAgora Ana Maria consegue resolver a Teoria das Cordas. Eba!")
         _ = False #True
     
@@ -63,7 +61,6 @@ while _:
             SPACE[P_a] = " "
             P_a += 1
             ToCast()
-            print(f"A: {P_a}")
             ToWait()
             ToBody()
 
@@ -71,7 +68,6 @@ while _:
             SPACE[P_b] = " "
             P_b += 1
             ToCast()
-            print(f"B: {P_b}")
             ToWait()
             ToBody()
 
