@@ -53,8 +53,8 @@ while _:
     
     if P_a == P_b:
         ToExplode()
-        print("As partículas colidiram. Bazinga!\nAgora Ana Maria consegue resolver a Teoria das Cordas. Eba!")
-        _ = False #True
+        print("The particles crash themselves. Bazinga!\nNow, Ana Maria can solve String Theory.\nCongratulations!")
+        _ = False
     
     else:
         if P_a < P_b:
@@ -70,5 +70,3 @@ while _:
             ToCast()
             ToWait()
             ToBody()
-
-    #print(f"A={P_a}\nB={P_b}")
