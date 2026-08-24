@@ -9,3 +9,6 @@ This is a simple project that simulates the work of the Large Hadron Collider.
 In broad terms, it speeds particles quickly to almost the speed of light. Then, they crash themselves.
 
 ![Little_LHC](LittleLHC.gif)
+
+
+OBS: Ana Maria, I wish that you could solve String Theory.
