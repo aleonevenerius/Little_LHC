@@ -11,4 +11,5 @@ In broad terms, it speeds particles quickly to almost the speed of light. Then, 
 ![Little_LHC](LittleLHC.gif)
 
 
-OBS: Ana Maria, I wish that you could solve String Theory.
+Note:
+* Ana Maria, I wish that you could solve String Theory.
